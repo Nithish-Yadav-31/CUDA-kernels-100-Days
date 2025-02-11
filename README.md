@@ -42,6 +42,3 @@ Here’s a table with 50 rows of dummy data for "day" and "task done."
 | Day8       |                                    |
 | Day8       |                                    |
 | Day8       |                                    |
-
-
-Let me know if you'd like to add or change anything!
