@@ -4,9 +4,7 @@ Sure! Here's the explanation with properly rendered mathematical expressions in 
 
 The code implements a **2D Convolution** operation. The formula for a 2D convolution operation can be expressed as:
 
-\[
-y(x, y) = \sum_{i=-n}^{n} \sum_{j=-n}^{n} x(x + i, y + j) \cdot k(n + j, n + j)
-\]
+![image](https://github.com/user-attachments/assets/a9a56a6c-c4bc-422f-8a8a-2fdc09ce9c35)
 
 Where:
 - \( y(x, y) \) is the output value at position \( (x, y) \).
@@ -31,9 +29,8 @@ Let's compare the mathematical formulas with the corresponding code implementati
 
 The main mathematical operation for convolution is:
 
-\[
-y(x, y) = \sum_{i=-n}^{n} \sum_{j=-n}^{n} x(x + i, y + j) \cdot k(n + j, n + j)
-\]
+![image](https://github.com/user-attachments/assets/396f9de9-5a98-4ba4-87c6-20f6395460b5)
+
 
 This expression calculates the output at position \( (x, y) \) by taking the weighted sum of the neighboring values in the input matrix, where the weights come from the kernel. The kernel "slides" over the input matrix, and at each position, a weighted sum of pixels is computed.
 
@@ -41,9 +38,8 @@ This expression calculates the output at position \( (x, y) \) by taking the wei
 
 The kernel is typically a square matrix with dimensions \( (2n + 1) \times (2n + 1) \). The kernel is indexed from \( -n \) to \( n \), and this can be transformed into a 1D array for easier access. The expression used in the code is:
 
-\[
-\text{kernel}[(2 * n + 1) * (n + j) + n + j]
-\]
+![image](https://github.com/user-attachments/assets/e6d18ac5-4f52-414a-9802-4518574cdd57)
+
 
 Here:
 - \( (2 * n + 1) \) is the total number of elements in a row of the kernel.
