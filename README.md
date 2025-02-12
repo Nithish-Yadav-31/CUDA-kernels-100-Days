@@ -3,7 +3,7 @@
 My Mentor @https://github.com/hkproj
 
 | Day        | Task Done                          |      |
-|------------|-------------------------------------------|
+|------------|------------------------------------|------|
 | Day1       | VectorAddition                     |      |
 | Day2       | MatrixAddition                     |      |
 | Day3       | MatMul                             |      |
