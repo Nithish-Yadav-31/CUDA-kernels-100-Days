@@ -14,7 +14,7 @@ Here’s a table with 50 rows of dummy data for "day" and "task done."
 | Day6       | Tiled MatMul                       |
 | Day7       | Conv1d                             |
 | Day8       | Conv2d                             |
-| Day8       |                                    |
+| Day9       | Tanh                               |
 | Day8       |                                    |
 | Day8       |                                    |
 | Day8       |                                    |
