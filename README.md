@@ -15,30 +15,15 @@ Here’s a table with 50 rows of dummy data for "day" and "task done."
 | Day7       | Conv1d                             |
 | Day8       | Conv2d                             |
 | Day9       | Tanh                               |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
-| Day8       |                                    |
+| Day10      | ReLU, Sigmoid                      |ToDo
+| Day11      | Softmax                            |ToDo
+| Day12      | Max Pooling                        |ToDo
+| Day13      | Batch Normalization                |ToDo
+| Day14      | Layer Normalization                |ToDo
+| Day15      | Single-Layer perceptron            |ToDo
+| Day16      | Two-Layer NN                       |ToDo
+| Day17      | BackProp (Single Layer)            |ToDo
+| Day18      | BackProp (Double Layer)            |ToDo
+| Day19      | Weight Initialization              |ToDo
+| Day20      | Gradient Descent                   |ToDo
+| Day21      | Adam                               |ToDo
