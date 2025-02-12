@@ -2,7 +2,7 @@
 
 My Mentor @https://github.com/hkproj
 
-| Day        | Task Done                          |      |
+| Day        | Task Done                          | Status|
 |------------|------------------------------------|------|
 | Day1       | VectorAddition                     |      |
 | Day2       | MatrixAddition                     |      |
