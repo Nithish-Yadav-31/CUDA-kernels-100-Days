@@ -13,7 +13,7 @@ My Mentor @https://github.com/hkproj
 | Day7       | Conv1d                             |      |
 | Day8       | Conv2d                             |      |
 | Day9       | Tanh                               |      |
-| Day10      | ReLU, Sigmoid                      |ToDo  |
+| Day10      | ReLU, Leaky ReLU                   |ToDo  |
 | Day11      | Softmax                            |ToDo  |
 | Day12      | Max Pooling                        |ToDo  |
 | Day13      | Batch Normalization                |ToDo  |
