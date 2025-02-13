@@ -4,16 +4,16 @@ My Mentor @https://github.com/hkproj
 
 | Day        | Task Done                          | Status|
 |------------|------------------------------------|------|
-| Day1       | VectorAddition                     |      |
-| Day2       | MatrixAddition                     |      |
-| Day3       | MatMul                             |      |
-| Day4       | MatrixVector Mul                   |      | 
-| Day5       | VectorNorm                         |      |
-| Day6       | Tiled MatMul                       |      |
-| Day7       | Conv1d                             |      |
-| Day8       | Conv2d                             |      |
-| Day9       | Tanh                               |      |
-| Day10      | ReLU, Leaky ReLU                   |ToDo  |
+| Day1       | VectorAddition                     |✅   |
+| Day2       | MatrixAddition                     |✅   |
+| Day3       | MatMul                             |✅   |
+| Day4       | MatrixVector Mul                   |✅   |
+| Day5       | VectorNorm                         |✅   |
+| Day6       | Tiled MatMul                       |✅   |
+| Day7       | Conv1d                             |✅   |
+| Day8       | Conv2d                             |✅   |
+| Day9       | Tanh                               |✅   |
+| Day10      | ReLU, Leaky ReLU                   |✅   |
 | Day11      | Softmax                            |ToDo  |
 | Day12      | Max Pooling                        |ToDo  |
 | Day13      | Batch Normalization                |ToDo  |
