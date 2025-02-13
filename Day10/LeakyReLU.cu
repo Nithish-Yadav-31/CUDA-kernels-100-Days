@@ -9,7 +9,7 @@ __global__ void Leaky_ReLU(float *input, float *output, int size){
     int idx = blockDim.x * blockIdx.x + threadIdx.x;
 
     if (idx < N){
-        output[idx] = max(0.01f * input[idx], input[idx]);
+        output[idx] = fmaxf(0.01f * input[idx], input[idx]);
     }
 }
 
@@ -30,7 +30,7 @@ int main()
 
     cudaMemcpy(d_input, h_input, size, cudaMemcpyHostToDevice);
 
-    int block_size = (N * THREADS_PER_BLOCK - 1) / THREADS_PER_BLOCK;
+    int block_size = (N + THREADS_PER_BLOCK - 1) / THREADS_PER_BLOCK;
     
     Leaky_ReLU<<<block_size, THREADS_PER_BLOCK>>>(d_input, d_output, N);
 
