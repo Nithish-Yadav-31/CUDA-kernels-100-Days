@@ -25,4 +25,9 @@ My Mentor @https://github.com/hkproj
 | Day20      | BackProp (Double Layer)            |ToDo  |
 | Day21      | Weight Initialization              |ToDo  |
 | Day22      | Gradient Descent                   |ToDo  |
-| Day23      | Adam                               |ToDo  |
+| Day23      | RMSProp                               |ToDo  |
+| Day24      | Adadelta                               |ToDo  |
+| Day25      | Adam                               |ToDo  |
+| Day26      | LoRA                               |ToDo  |
+| Day27      | QLoRA                               |ToDo  |
+| Day28      | RNN (Fwd. Pass)                               |ToDo  |
