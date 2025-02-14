@@ -14,14 +14,15 @@ My Mentor @https://github.com/hkproj
 | Day8       | Conv2d                             |✅   |
 | Day9       | Tanh                               |✅   |
 | Day10      | ReLU, Leaky ReLU                   |✅   |
-| Day11      | Softmax                            |ToDo  |
-| Day12      | Max Pooling                        |ToDo  |
-| Day13      | Batch Normalization                |ToDo  |
-| Day14      | Layer Normalization                |ToDo  |
-| Day15      | Single-Layer perceptron            |ToDo  |
-| Day16      | Two-Layer NN                       |ToDo  |
-| Day17      | BackProp (Single Layer)            |ToDo  |
-| Day18      | BackProp (Double Layer)            |ToDo  |
-| Day19      | Weight Initialization              |ToDo  |
-| Day20      | Gradient Descent                   |ToDo  |
-| Day21      | Adam                               |ToDo  |
+| Day11      | GeLU, Sigmoid                      |ToDo  |
+| Day13      | Softmax, Softmax Shared            |ToDo  |
+| Day14      | Max Pooling                        |ToDo  |
+| Day15      | Batch Normalization                |ToDo  |
+| Day16      | Layer Normalization                |ToDo  |
+| Day17      | Single-Layer perceptron            |ToDo  |
+| Day18      | Two-Layer NN                       |ToDo  |
+| Day19      | BackProp (Single Layer)            |ToDo  |
+| Day20      | BackProp (Double Layer)            |ToDo  |
+| Day21      | Weight Initialization              |ToDo  |
+| Day22      | Gradient Descent                   |ToDo  |
+| Day23      | Adam                               |ToDo  |
