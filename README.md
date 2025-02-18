@@ -16,8 +16,8 @@ My Mentor @https://github.com/hkproj
 | Day10      | ReLU, Leaky ReLU                   |✅   |
 | Day11      | GeLU, Sigmoid                      |✅    |
 | Day13      | Softmax, Softmax Shared            |✅  |
-| Day14      | Max Pooling                        |ToDo  |
-| Day15      | Batch Normalization                |ToDo  |
+| Day14      | Max Pooling                        |✅  |
+| Day15      | Batch Normalization                |✅  |
 | Day16      | Layer Normalization                |ToDo  |
 | Day17      | Single-Layer perceptron            |ToDo  |
 | Day18      | Two-Layer NN                       |ToDo  |
