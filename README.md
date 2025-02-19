@@ -18,7 +18,7 @@ My Mentor @https://github.com/hkproj
 | Day13      | Softmax, Softmax Shared            |✅  |
 | Day14      | Max Pooling                        |✅  |
 | Day15      | Batch Normalization                |✅  |
-| Day16      | Layer Normalization                |ToDo  |
+| Day16      | Layer Normalization                |✅  |
 | Day17      | Single-Layer perceptron            |ToDo  |
 | Day18      | Two-Layer NN                       |ToDo  |
 | Day19      | BackProp (Single Layer)            |ToDo  |
