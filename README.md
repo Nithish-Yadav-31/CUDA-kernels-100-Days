@@ -15,19 +15,19 @@ My Mentor @https://github.com/hkproj
 | Day9       | Tanh                               |✅   |
 | Day10      | ReLU, Leaky ReLU                   |✅   |
 | Day11      | GeLU, Sigmoid                      |✅    |
-| Day13      | Softmax, Softmax Shared            |✅  |
-| Day14      | Max Pooling                        |✅  |
-| Day15      | Batch Normalization                |✅  |
-| Day16      | Layer Normalization                |✅  |
-| Day17      | Single-Layer perceptron            |ToDo  |
-| Day18      | Two-Layer NN                       |ToDo  |
-| Day19      | BackProp (Single Layer)            |ToDo  |
-| Day20      | BackProp (Double Layer)            |ToDo  |
-| Day21      | Weight Initialization              |ToDo  |
-| Day22      | Gradient Descent                   |ToDo  |
-| Day23      | RMSProp                               |ToDo  |
-| Day24      | Adadelta                               |ToDo  |
-| Day25      | Adam                               |ToDo  |
-| Day26      | LoRA                               |ToDo  |
-| Day27      | QLoRA                               |ToDo  |
-| Day28      | RNN (Fwd. Pass)                               |ToDo  |
+| Day12      | Softmax, Softmax Shared            |✅  |
+| Day13      | Max Pooling                        |✅  |
+| Day14      | Batch Normalization                |✅  |
+| Day15      | Layer Normalization                |✅  |
+| Day16      | Single-Layer perceptron            |ToDo  |
+| Day17      | Two-Layer NN                       |ToDo  |
+| Day18      | BackProp (Single Layer)            |ToDo  |
+| Day19      | BackProp (Double Layer)            |ToDo  |
+| Day20      | Weight Initialization              |ToDo  |
+| Day21      | Gradient Descent                   |ToDo  |
+| Day22      | RMSProp                               |ToDo  |
+| Day23      | Adadelta                               |ToDo  |
+| Day24      | Adam                               |ToDo  |
+| Day25      | LoRA                               |ToDo  |
+| Day26      | QLoRA                               |ToDo  |
+| Day27      | RNN (Fwd. Pass)                               |ToDo  |
