@@ -1,6 +1,6 @@
 # CUDA-kernels-100-Days
 
-My Mentor @https://github.com/hkproj
+Inspiration and Mentor - @https://github.com/hkproj
 
 | Day        | Task Done                          | Status|
 |------------|------------------------------------|------|
