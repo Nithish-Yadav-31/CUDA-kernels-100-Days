@@ -19,11 +19,11 @@ Inspiration and Mentor - @https://github.com/hkproj
 | Day13      | Max Pooling                        |✅  |
 | Day14      | Batch Normalization                |✅  |
 | Day15      | Layer Normalization                |✅  |
-| Day16      | Single-Layer perceptron            |ToDo  |
-| Day17      | Two-Layer NN                       |ToDo  |
-| Day18      | BackProp (Single Layer)            |ToDo  |
-| Day19      | BackProp (Double Layer)            |ToDo  |
-| Day20      | Weight Initialization              |ToDo  |
+| Day16      | Single-Layer perceptron            |✅    |
+| Day17      | Two-Layer NN                       |✅    |
+| Day18      | BackProp (Single Layer)            |✅    |
+| Day19      | BackProp (Double Layer)            |✅    |
+| Day20      | Weight Initialization              |✅    |
 | Day21      | Gradient Descent                   |ToDo  |
 | Day22      | RMSProp                               |ToDo  |
 | Day23      | Adadelta                               |ToDo  |
